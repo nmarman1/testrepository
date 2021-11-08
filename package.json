@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "jest",
-    "start": "electron .",
+    "start": "tsc script.ts && electron .",
     "build": "npm install --save-dev electron"
   },
   "repository": {
