@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run our tests
         run: |
-          npm
+          npm ci
           npm test
       # Runs a set of commands using the runners shell
 #      - name: Multi Line Script Template
