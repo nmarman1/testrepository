@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/nmarman1/testrepository#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.16.0",
     "@babel/preset-typescript": "^7.16.0",
     "@types/jest": "^27.0.2",
     "babel-jest": "^27.3.1",
